@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philippekoehl007
 - 👀 I’m interested in scale modelling
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C++
 - 📫 How to reach me ...
 
 <!---
